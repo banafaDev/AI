@@ -1,0 +1,27 @@
+/.DS_Store
+/.venv
+/ANN.ipynb
+/Advertising.csv
+/Airbnb-Analysis-Manchester
+/CNN.ipynb
+/CNN_model.h5
+/CNN_model.h5.zip
+/GenerativeAI__Slides.pdf
+/ID_card.png
+/ID_card2.png
+/LLM.ipynb
+/NLP.ipynb
+/RNN.ipynb
+/archive
+/cnn_medical_image_model.h5
+/data.csv
+/diabetes.csv
+/kaggle.json
+/logs.log
+/maze-visualizer
+/paython_project.ipynb
+/style.css
+/test 20,000.txt
+/train 100,000.txt
+/train.csv
+/unsupervused.ipynb
