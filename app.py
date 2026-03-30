@@ -1,4 +1,5 @@
 import streamlit as st 
+st.write("XSRF:", st.get_option("server.enableXsrfProtection"))
 import pandas as pd 
 import numpy as np
 import io
